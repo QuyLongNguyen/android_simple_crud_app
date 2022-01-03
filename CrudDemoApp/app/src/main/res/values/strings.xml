@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CRUD Demo</string>
+    <string name="tv_title">Student Management</string>
+    <string name="tv_id">ID: </string>
+    <string name="tv_name">Name: </string>
+    <string name="tv_phone">Phone: </string>
+    <string name="tv_address">Address: </string>
+    <string name="bt_add_student">Save</string>
+    <string name="bt_get_all">Get all</string>
+    <string name="bt_get">Get</string>
+    <string name="bt_delete">Delete</string>
+    <string name="tv_class">Class:</string>
+    <string name="element_text">element</string>
+</resources>
